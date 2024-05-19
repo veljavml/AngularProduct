@@ -1,0 +1,7 @@
+table {
+    width: 100%;
+  }
+  
+  tr:hover {
+    background-color: rgba(255, 164, 164, 0.5);
+  }
